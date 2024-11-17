@@ -22,8 +22,8 @@ Integrating multiple data sources for unified reporting
 ### 1. Sales Analysis Dashboard (Power BI)
 Objective: Analyzed sales data to identify revenue trends, top-performing products, and customer demographics.
 Skills Highlighted:
-Data modeling and relationships
-DAX functions for KPIs like YoY growth and profit margin
+* Data modeling and relationships
+* DAX functions for KPIs like YoY growth and profit margin
 Interactive visuals for better decision-making
 ### 2. Customer Retention Analysis (Python)
 Objective: Used Python to identify patterns in customer behavior and predict churn.
