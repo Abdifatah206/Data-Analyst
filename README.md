@@ -41,11 +41,11 @@ How to Use
 Clone Repository:
 bash
 Copy code
-git clone https://github.com/yourusername/data-analyst-portfolio.git
+git clone https://github.com/Abdifatah206/Data-Analyst/tree/main
 Navigate to the respective project folder for instructions and dataset access.
 ### Contact Information
 If you'd like to connect, collaborate, or learn more about my work, feel free to reach out:
 
-Email: [abdifaatahmohamed@example.com]<br/>
+Email: [abdifaatahmohamed@gmail.com]<br/>
 LinkedIn: [https://www.linkedin.com/in/abdifatah-mohamed/]<br/>
-GitHub: [github.com/yourusername]<br/>
+GitHub: [https://github.com/Abdifatah206/Data-Analyst/tree/main]<br/>
