@@ -46,6 +46,6 @@ Navigate to the respective project folder for instructions and dataset access.
 ### Contact Information
 If you'd like to connect, collaborate, or learn more about my work, feel free to reach out:
 
-Email: [your.email@example.com]
-LinkedIn: [linkedin.com/in/yourprofile]
-GitHub: [github.com/yourusername]
+Email: [abdifaatahmohamed@example.com]<br/>
+LinkedIn: [https://www.linkedin.com/in/abdifatah-mohamed/]<br/>
+GitHub: [github.com/yourusername]<br/>
