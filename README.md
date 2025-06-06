@@ -1,14 +1,8 @@
 # Overview
 This project explores historical sales data for a specific product: Hitch Rack - 4-Bike. The goal is to analyze trends in customer demographics, regional performance, and financial outcomes including revenue, cost, and profit across time.
 
-## Skills and Tools
-### Programming Languages and Libraries
-Python: Proficient in data analysis and manipulation using libraries such as:
-Pandas: Data cleaning and transformation
-NumPy: Numerical analysis
-Matplotlib/Seaborn: Data visualization
-Scikit-learn: Basic machine learning and predictive analysis
-Statsmodels: Statistical modeling
+### Dataset used
+*
 ### Data Analysis in Excel
 Advanced proficiency in:
 * Pivot tables and charts
