@@ -5,15 +5,18 @@ This project explores historical sales data for a specific product: Hitch Rack -
 * [View Sales Analysis Dataset](https://github.com/Abdifatah206/Data-Analyst/blob/main/Sales.csv)
 
 ### Data Analysis in Excel
+
 Advanced proficiency in:
 * Pivot tables and charts
 * Data cleaning and preparation using formulas and functions
 * Advanced Excel techniques like Power Query, conditional formatting, and macros
 ### Power BI
+
 * Building dynamic dashboards and interactive reports
 * Data modeling and DAX functions
 * Integrating multiple data sources for unified reporting
 ## Projects
+
 ### 1. Sales Analysis Dashboard (Power BI)
 Objective: Analyzed sales data to identify revenue trends, top-performing products, and customer demographics.
 Skills Highlighted:
