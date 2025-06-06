@@ -1,5 +1,5 @@
-# Data Analyst Portfolio
-Welcome to my Data Analyst portfolio! This repository showcases projects and skills in data analysis using Python, Microsoft Excel, and Power BI. It includes end-to-end workflows, from data cleaning and preparation to visualization and insights.
+# Overview
+This project explores historical sales data for a specific product: Hitch Rack - 4-Bike. The goal is to analyze trends in customer demographics, regional performance, and financial outcomes including revenue, cost, and profit across time.
 
 ## Skills and Tools
 ### Programming Languages and Libraries
