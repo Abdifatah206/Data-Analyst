@@ -11,6 +11,7 @@ This project explores historical sales data for a specific product: Hitch Rack -
 * What is the revenue trend over time (monthly/yearly)?
 * What is the total profit by product or customer segment?
 * Which product or category yields the highest profit margin?
+* [Dashboard interaction]
 ### Power BI
 
 * Building dynamic dashboards and interactive reports
