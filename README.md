@@ -12,6 +12,12 @@ This project explores historical sales data for a specific product: Hitch Rack -
 * What is the total profit by product or customer segment?
 * Which product or category yields the highest profit margin?
 * [Dashboard interaction](https://github.com/Abdifatah206/Data-Analyst/blob/main/sales.png)
+
+### Process
+* Verfy data for any missing values and anomalies, sort out the same.
+* Made sure data is consistent and clean with respect data types, data format and values used.
+* Created pivot tables according to the questions asked.
+* March all pivot tables into one dashboard, and appy slicer to make dynamic.
   
 ### Contact Information
 If you'd like to connect, collaborate, or learn more about my work, feel free to reach out:
