@@ -2,7 +2,7 @@
 This project explores historical sales data for a specific product: Hitch Rack - 4-Bike. The goal is to analyze trends in customer demographics, regional performance, and financial outcomes including revenue, cost, and profit across time.
 
 ### Dataset used
-* [View Sales Analysis Dataset](https://github.com/Abdifatah206/Data-Analyst/blob/main/Sales.csv)
+* [View Sales Analysis Dataset](https://github.com/Abdifatah206/Data-Analyst/blob/main/Sales.xlxx)
 
 ### Questions(KPIs)
 
